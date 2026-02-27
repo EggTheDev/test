@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Test",
   "resources": [
+    {"id":{"name":"scr_ass","path":"scripts/scr_ass/scr_ass.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -16,7 +17,7 @@
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
